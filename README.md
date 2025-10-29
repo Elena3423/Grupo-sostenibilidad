@@ -1,10 +1,6 @@
-﻿# Grupo-sostenibilidad
+﻿# *Introducción*
+Este proyecto tiene como objetivo analizar el funcionamiento de los sistemas de una civilización desde una perspectiva analítica, comprendiendo cómo obtenía materia, energía y condiciones adecuadas para la vida, y relacionando este conocimiento con los principios modernos de sostenibilidad.
 
-### Puntos principales
-#### 1. Mesopotamia: Funcionamiento de una Civilización Hidráulica (Análisis del Sistema)
-#### 1.1. Geografía e Innovación (origen de la necesidad de gestión de recursos).
-#### 1.2. Análisis del sistema y civilización mesopotámica
-#### 1.2.1. Obtención de materia: el barro como recurso clave
-#### 1.2.2. Gestión de energia: fuerza humana, animal e hidráulica (canales de agua)
-#### 1.2.3. Condiciones de vida: sistemas de irrigación (tecnología de la época) y las leyes (Código de Hammurabi).
-#### 1.3. Sostenibilidad: el desafio de la salinización del suelo (ejemplo de impacto del ambiente a largo plazo)
+La civilización elegida para el análisis es Mesopotamia, considerada una de las primeras grandes civilizaciones de la humanidad y conocida como “la cuna de la civilización”. A través del estudio de su organización hidráulica, gestión de recursos y desarrollo tecnológico, se busca entender cómo sus avances y desafíos ambientales pueden servir de lección para las sociedades actuales.
+
+Por último, se incluye un análisis del sector de la informática y las comunicaciones, destacando su papel en el consumo de recursos materiales, la generación de residuos electrónicos y las posibilidades que ofrece para avanzar hacia una tecnología más limpia, eficiente y alineada con los objetivos de desarrollo sostenible.
