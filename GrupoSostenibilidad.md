@@ -51,6 +51,27 @@ En base a esta escazes de recursos de construcción fue cuando se impulsó el us
 
 ####  1.2.2. Gestión de Energía  
 - Empleo de **fuerza humana**, **animal** y **energía hidráulica** (canales de agua).  
+
+La civilización mesopotámica supo utilizar las fuentes de energía disponibles en su entorno para desarrollar la agricultura, la construcción y el transporte. 
+La falta de recursos como la madera o los metales, derivó a que se basaran en estos tres pilares fundamentales: la **fuerza humana**, la **fuerza animal** y **la energía hidráulica** (proveniente de los rios Tigris y Éufrates).
+
+**¿Cómo aprovechaban estas fuentes de energía?**
+
+**1. Fuerza humana**
+La mano de obra era algo esencial en todas las actividades de la vida mesopotámica. Una parte de los trabajadores participaban en la construcción de templos, canales de riego, murallas y zigurats. También se empleaba en trabajos agrícolas como la siembra, la cosecha y el mantenimiento de los campos.
+El trabajo estaba organizado de forma colectiva y supervisado por administradores que controlaban el rendimiento y la distribución de tareas, permitiendo realizar grandes proyectos públicos que transformaron el paisaje.
+
+**2. Fuerza animal**
+Los animales como los **bueyes** y **asnos**, fueron una ayuda fundamental para la agricultura y el transporte de la época.
+- Los **bueyes** se utilizaban para arar la tierra y preparar los campos de cultivo.
+- Los **asnos** transportaban productos agrícolas, materiales de construcción y mercancías comerciales. 
+Gracias a este uso, se consiguió aumentar la productividad y facilitar el comercio entre las distintas ciudades.
+
+**3. Energía hidráulica (canales de agua)**
+El **agua** fue una de las principales fuentes energéticas de la época. Los mesopotámicos contruyeron una serie de redes de **canales**, **diques** y **presas** para controlar el flujo del agua y distribuirla hacia los campos.
+Los canales de agua eran reforzados con barro, cañas y betún para evitar filtraciones, además, se limpiaban regularmente para asegurar el paso de agua constante.
+Este sistema de riego permitió cultivar grandes extensiones de tierra y asegurar las cosechas incluso en épocas de sequía. 
+
 - Innovaciones en riego y transporte fluvial.  
 
 ####  1.2.3. Condiciones de Vida  
