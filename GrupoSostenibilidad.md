@@ -55,6 +55,46 @@ En base a esta escazes de recursos de construcción fue cuando se impulsó el us
 
 ####  1.2.3. Condiciones de Vida  
 - **Sistemas de irrigación** como base de la agricultura.  
+Los sistemas de irrigación en Mesopotamia fue la base de su agricultura. Esto significa que no dependian de las lluvias, que eran escasas e irregulares, si no que dependian del agua de los ríos **Tigris y Éufrates**. El desarrollo de la tecnologia hidraulica fue la base de toda su civilización.
+
+**Tecnicas y Estructura de Irrigacón**
+
+**Canales:** Una extensa red de canales principales, secundarios y acequias que desviaban el agua de los ríos y la distribuían hacia los campos de cultivo. Esta era la infraestructura más importante de esta civilización.
+
+**Diques y Presas:** Se utilizaban para contener y regular el caudal de los rios, sobre todo durante las crecidas violentas de las precipitaciones en primavera
+
+**Depositos y Embalses:** Permitían almacenar el agua en época de abundancia para usarla durante los periodos de sequía
+
+**Shadufs:** Este dispositivo es una palaca con un contrapeso que permitía elevar el agua desde los canales hasta los campos mas altos.
+
+**Consecuencias en las Condiciones de Vida y la Sociedad**
+
+**Garantizó el Sustento:** Permitió cultivar cereales como la **cebada** (la más importante por sus resistencia a la salinidad) y el trigo, además de muchas legumbres, datileras y hortalizas.
+
+**Generación de Excedentes:** La agricultura de regadío era mucho más productiva que la de secano. Esto generó excedentes de alimentos, lo que es considerado el "motor" de la historia mesopotámica.
+
+**Cambio Social y Especialización:** Gracias a los excedentes agrícolas generados por la irrigación, no toda la población necesitó dedicarse a la agricultura. Esto permitió la **especialización del trabajo**, dando origen a una sociedad más compleja con nuevos oficios y roles:
+- Artesanos
+- Comerciantes
+- Sacerdotes
+- Soldades
+
+**Urbanización y Crecimiento Demográfico**
+La **seguridad alimentaria** proporcionada por los sistemas de irrigación permitió un **crecimiento sostenido de la población**.
+
+Este aumento demográfico impulsó el **surgimiento de las primeras ciudades-estado** como:
+  - **Uruk**
+  - **Ur**
+  - **Eridu**
+
+En estos centros urbanos, la sociedad se volvió más **compleja y jerarquizada**, estableciéndose claras diferencias entre clases sociales.
+
+**Nuevos Conflictos**
+El agua era un **recurso estrategico y vital** para la supervivencia, por lo que el control de los canales principales. Esto se convirtió en fuente de:
+- Conflictos permanentes entre ciudades-estado
+- Guerras por el dominio de los recursos hídricos
+- Alianzas y rivalidades políticas en torno al agua
+
 - Avances tecnológicos de la época.  
 - **Leyes y organización social** (Código de Hammurabi).  
 
