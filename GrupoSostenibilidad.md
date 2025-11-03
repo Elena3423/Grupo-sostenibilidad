@@ -122,7 +122,31 @@ El agua era un **recurso estrategico y vital** para la supervivencia, por lo que
 ---
 
 ###  1.3. Sostenibilidad  
-- El desafío de la **salinización del suelo**.  
-- Ejemplo del **impacto ambiental a largo plazo** y su influencia en la estabilidad de la civilización.  
+
+- El desafío de la salinización del suelo.
+- Ejemplo del impacto ambiental a largo plazo y su influencia en la estabilidad de la civilización.
+
+La civilización mesopotámica dependía completamente del agua de los ríos Tigris y Éufrates para mantener su agricultura. Sin embargo, el uso continuo de sistemas de riego en un clima árido y caluroso provocó un problema ambiental serio: la salinización del suelo.
+
+Este fenómeno ocurría porque el agua utilizada para regar contenía sales minerales. Cuando el agua se evaporaba por el calor, las sales quedaban acumuladas en la superficie del terreno. Con el paso del tiempo, esta acumulación redujo la fertilidad de los campos, afectando directamente las cosechas.
+
+**Consecuencias principales:**
+
+- Los cultivos más sensibles, como el trigo, dejaron de crecer adecuadamente.
+
+- Los agricultores tuvieron que reemplazarlo por cebada, más resistente a la sal, pero menos nutritiva.
+
+- Se produjo una disminución de la productividad agrícola y un deterioro progresivo del suelo.
+
+- Muchas tierras del sur de Mesopotamia fueron abandonadas al volverse infértiles.
+
+Este deterioro ambiental tuvo un impacto a largo plazo en la economía y la organización social. Al reducirse la producción de alimentos, hubo escasez, migraciones hacia zonas más fértiles y un debilitamiento del poder político y religioso que dependía del control de la agricultura.
+
+La salinización del suelo se convirtió así en un ejemplo temprano de cómo la mala gestión de los recursos naturales puede afectar la estabilidad de una civilización. Aunque los mesopotámicos fueron pioneros en el uso del riego, su sistema no fue sostenible a largo plazo.
+
+En conclusión, el caso mesopotámico demuestra que el éxito de una civilización hidráulica puede transformarse en una amenaza si no se equilibran las necesidades humanas con los límites del entorno natural.
+
+
+
 
 
