@@ -76,6 +76,7 @@ Este sistema de riego permitió cultivar grandes extensiones de tierra y asegura
 
 ####  1.2.3. Condiciones de Vida  
 - **Sistemas de irrigación** como base de la agricultura.  
+
 Los sistemas de irrigación en Mesopotamia fue la base de su agricultura. Esto significa que no dependian de las lluvias, que eran escasas e irregulares, si no que dependian del agua de los ríos **Tigris y Éufrates**. El desarrollo de la tecnologia hidraulica fue la base de toda su civilización.
 
 **Tecnicas y Estructura de Irrigacón**
@@ -116,7 +117,60 @@ El agua era un **recurso estrategico y vital** para la supervivencia, por lo que
 - Guerras por el dominio de los recursos hídricos
 - Alianzas y rivalidades políticas en torno al agua
 
-- Avances tecnológicos de la época.  
++ **Avances tecnológicos de la época** 
+
+Durante los periodos de Uruk (4100-2900 a.C.) y el periodo dinástico arcáico (2900-1750 a.C.) de la cultura sumeria, comenzó a desarrollarse la ciencia y la tecnología mesopotámica en la que se establecieron las bases de los avances tecnológicos.
+Fueron los pioneros en explorar la hipótesis científica y se dedicaron a innovar tecnológicamente dando lugar a muchos avances como la palabra escrita, el desarrollo de las matemáticas, la astronomía y astrología, entre muchos otros.
+Con la ayuda de la hipótesis científica y las ganas de los sumerios por mejorar su estilo de vida se crearon algunas de las invenciones más importantes:
+    
++ La rueda 
++ La vela 
++ La escritura 
++ Los mapas 
++ Los medicamentos y las cirugías
+
+Y esta es solo una pequeña parte de todos los avances tecnológicos desarrollados por esta civilización.
+
+**Ciencia**
+
+Los mesopotámicos fueron una de las primeras civilizaciones que intentaron comprender su entorno de forma racional, observando todo lo que pasaba a su alrededor, lo que les llevo a desarrollar conocimientos en distintas áreas como las matemáticas, la astronomía, la medicina e incluso una química temprana, por su creación de pigmentos, cerámica y el trabajo con metales.
+
+  + Matemáticas
+    
+    Los sumerios desarrollaron las matemáticas antes de la utilización de la escritura. Estas fueron una herramienta fundamental para la vida en Mesopotamia, y se dice que se desarrollaron a partir de que los escribas y administradores tenían la necesidad de contar cosechas, calcular impuestos o planificar construcciones. 
+    Su sistema numérico estaba basado en el número 60, conocido como sistema sexagesimal que incluía suma, resta, multiplicación, división, álgebra, geometría, recíprocos, cuadrados y ecuaciones cuadráticas. Con este sistema se inspirarón para crear el tiempo basado en 60 y por eso las horas comenzaron a ser definidas por 60 minutos y los minutos por 60 segundos. También median el tiempo con relojes de sol o de agua con los que determinaron que los días se dividían en 12 horas de luz solar y 12 horas de oscuridad, dictaminando que los días durasen 24 horas.
+    Gracias a este conocimiento podían medir terrenos, calcular áreas y volúmenes, algo esencial para el diseño de canales, templos y zigurats. 
+  + Astronomía
+    
+    El desarrollo de la astronomía va de la mano con el propio desarrollo de las matemáticas, ya que los sumerios con ambos conocimientos buscaban calcular la duración de los años. Desde muy temprano se dieron cuenta de que los movimientos del Sol, la Luna y las estrellas influían en la vida cotidiana, por eso los primeros astrónomos observaban cada noche para anotar lo que veían. Con estas anotaciones lograron crear un mapa de constelaciones y con esto uno de los primeros calendarios de la historia, que estaba basado en los ciclos lunares. Este calendario permitía organizar las cosechas, los rituales religiosos y las festividades. 
+    También identificaron constelaciones y planetas visibles y comenzaron a relacionar los movimientos del cielo con los acontecimientos de la tierra, ya que ellos creían que los dioses se manifestaban a traves de los astros.
+    
+  + Medicina
+
+    La salud fue una de las preocupaciones importantes de los mesopotámicos. Relacionaban las enfermedades con causas naturales y con causas espirituales. Por eso, los mesopotamicos mezclaban el conocimiento práctico con las creencias religiosas.
+    Existian dos tipos de sanadores:
+    + El asû que era un médico práctico. Utilizaba hierbas, aceites, minerales y cataplasmas para tratar las heridas.
+    + El āšipu que actuaba más como un sacerdote o exorcista. Se encargaba de realizar oraciones, conjuros y rituales para alejar el mal que afectaba al enfermo.
+    
+    A pesar de ser una sociedad más cercana a lo religioso su medicina fue sorprendentemente avanzada. Se han encontrado tablillas de arcilla con recetas, listas de sintomas y tratamientos. Llegaron incluso a practicar pequeñas cirugías y sabían reconocer síntomas de enfermedades comunes.
+    Su legado se mantuvo por siglos y sirvió de base para el desarrollo médico de civilizaciones posteriores.
+
+  + Química
+    
+    Aunque como tal los mesopotámicos no conocían la química como ciencia, desarrollaron una habilidad para observar y aprovechas las propiedades de los materiales que encontraban. A través de la experimentación aprendieron a transformar esas materias en objetos útiles o decorativos.
+    Sabían, por ejemplo a crear pigmentos mezclando minerales y plantas, fabricaban perfumes y ungüentos mezclando aceites vegetales con esencias naturales y también a manipular metales para fabricar herramientas, joyas y armas.
+    En la cerámica perfeccionaron su técnica, consiguiendo piezas más resistentes y con mejores acabados. Con esto se demuestra que aunque no tuviesen una base química entendían como los materiales cambiaban con el calor, la mezcla y el tiempo, aplicando estos conocimientos en su vida diaria.
+    Los mesopotámicos sentaron las bases de lo que posteriormente se convertiría en una química artesanal de las grandes civilizaciones antiguas.
+
+**Tecnología**
+
+La tecnología mesopotámica surgió de la necesidad de adaptarse a un entorno y de mejorar sus condiciones de vida. Con los pocos recursos naturales disponibles, los mesopotámicos encontraron soluciones que transformaron su forma de vivir y de organizarse como sociedad.
+La rueda, anteriormente mencionada como uno de los inventos más importantes, se usaba para fabricar cerámica, pero pronto se adaptó al transporte, lo que permitió el traslado de materiales por carros tirados por animales.
+La vela fue clave, ya que revolucionó la navegación fluvial, y gracias a ella las embarcaciones podían aprovechar el viento para desplazarse por los ríos. Con esto se pudieron conectar ciudades lejanas y facilitaron el intercambio de productos.
+Los mesopotámicos también destacaron en la construcción y en la ingeniería. Crearon herramientas y métodos para levantar estructuras con materiales sencillos, creando construcciones sólidas y duraderas.
+Esta tecnología fue resultado de la observación, necesidad y creatividad. Cada innovación marcó un paso importante en la historia, sentando las bases del desarrollo tecnológico.
+    
+  
 - **Leyes y organización social** (Código de Hammurabi).  
 
 ---
@@ -145,6 +199,7 @@ Este deterioro ambiental tuvo un impacto a largo plazo en la economía y la orga
 La salinización del suelo se convirtió así en un ejemplo temprano de cómo la mala gestión de los recursos naturales puede afectar la estabilidad de una civilización. Aunque los mesopotámicos fueron pioneros en el uso del riego, su sistema no fue sostenible a largo plazo.
 
 En conclusión, el caso mesopotámico demuestra que el éxito de una civilización hidráulica puede transformarse en una amenaza si no se equilibran las necesidades humanas con los límites del entorno natural.
+
 
 
 
