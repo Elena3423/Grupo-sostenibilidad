@@ -72,7 +72,21 @@ El **agua** fue una de las principales fuentes energéticas de la época. Los me
 Los canales de agua eran reforzados con barro, cañas y betún para evitar filtraciones, además, se limpiaban regularmente para asegurar el paso de agua constante.
 Este sistema de riego permitió cultivar grandes extensiones de tierra y asegurar las cosechas incluso en épocas de sequía. 
 
-- Innovaciones en riego y transporte fluvial.  
+- **Innovaciones en riego y transporte fluvial**.  
+
+La civilización mesopotámica no solo aprovechó la energía hidráulica para las labores de agricultura, además, desarrollaron un conjunto de innovaciones tecnológicas cruciales para gestionar el agua de los ríos Tigris y Éufrates, tanto para el riego vital como para la eficiencia del transporte y el comercio.
+
+**1. Innovaciones en el Riego (Ingeniería Hidráulica)**
+El control del agua no era una tarea facil, ya que los ríos presentaban crecidas irregulares. Las innovaciones se centraron en desviar, almacenar y elevar el agua:
+- **Red de canales:** construyeron un sistema de canales principales, secundarios y acequias. Estos eran especialmente diseñado para desviar el agua de los ríos hacia el interior de las tierras cultivables, permitiendo la irrigación por gravedad. Su construcción y mantenimiento requerían una coordinación social masiva y una ingeniería civil avanzada para la época.
+- **Diques y presas:** eran utilizados para regular el caudal y proteger los asentamientos de las inundaciones durante las crecidas del rio en época primaveral. Estos diques ayudaban a almacenar una parte del agua y a dirigirla a los canales en lugar de que se desbordara.
+- **El Shaduf:** fue un invento esencial para la irrigación de campos ubicados en terrenos más altos que el nivel del canal. Se trata de un dispositivo manual simple de elevación de agua, que utiliza un contrapeso para levantar un cubo lleno desde el canal hasta la acequia o campo. Fue fundamental para optimizar la distribución del agua en terrenos con desnivel.
+
+**2. Innovaciones en el Transporte Fluvial**
+Los ríos Tigris y Éufrates no eran solo una fuente de vida, eran las que llamariamos ahora como carreteras de Mesopotamia. Las innovaciones en el transporte permitieron el movimiento de personas, materiales de construcción y productos comerciales:
+- **La Vela:** los mesopotámicos están acreditados con una de las primera aplicaciones de la vela. Este invento revolucionó el transporte al permitir que las embarcaciones se movieran río arriba o río abajo aprovechando la energía del viento. Esto impulsó el comercio a larga distancia.
+- **Barcos especializados:** desarrollaron varios tipos de embarcaciones, desde balsas sencillas (como el Kelek) hasta barcos de fondo plano más grandes, adecuados para las aguas no muy profundas y para el tranporte de grandes cantidades de mercancías.
+- **El Betún como sellados:** el uso de betún o bitumen como un material impermeabilizante fue clave. Se usaba para sellar los cascos de las barcas, haciéndolas estancas y mucho más duraderas y fiables para el transporte fluvial pesado.
 
 ####  1.2.3. Condiciones de Vida  
 - **Sistemas de irrigación** como base de la agricultura.  
