@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2e5c4;
+}
+
+header {
+    background-color: #8b5e34;
+    padding: 10px 0;
+    position: relative;
+    z-index: 10;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.menu ul li {
+    position: relative;
+}
+
+.menu ul li a {
+    color: #f8f3e7;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.95rem;
+    padding: 6px 10px;
+    display: block;
+    border-radius: 4px;
+    transition: 0.2s;
+}
+
+.menu ul li a:hover,
+.submenu:hover>a {
+    background-color: #1e4b73;
+    border-radius: 4px 4px 0 0;
+}
+
+.despliegue {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #8b5e34;
+    padding: 0;
+    border-radius: 0 0 6px 6px;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.2s;
+    display: flex;
+    flex-direction: column;
+    min-width: 180px;
+}
+
+.submenu:hover .despliegue {
+    visibility: visible;
+    opacity: 1;
+}
+
+.despliegue li {
+    margin: 0;
+    padding: 0;
+}
+
+.despliegue li a {
+    padding: 4px 10px;
+    font-size: 0.78rem;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 400;
+    line-height: 1.0;
+    color: #f8f3e7;
+    display: block;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.despliegue li:last-child a {
+    border-bottom: none;
+}
+
+.despliegue li a:hover {
+    background-color: #1e4b73;
+}
