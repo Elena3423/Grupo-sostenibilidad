@@ -1,7 +1,14 @@
 body {
+    display: flex;
+    flex-direction: column;
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f2e5c4;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
 }
 
 header {
@@ -22,6 +29,12 @@ header {
 
 .menu ul li {
     position: relative;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+    min-height: 400px;
 }
 
 .menu ul li a {
@@ -83,4 +96,10 @@ header {
 
 .despliegue li a:hover {
     background-color: #1e4b73;
+}
+
+footer {
+    background: #b87a3f5e;
+    padding: 10px 0;
+    text-align: center;
 }
