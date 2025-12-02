@@ -46,8 +46,76 @@ Este recurso se obtenía través de pozos naturales o zonas donde había emanaci
 **4. Madera y piedra (A través de comercio)**
 Ya que éstos recursos eran escazos en estas zonas por su entorno desfaborable, se tenía que conseguir por comercio desde regiones montañosas (Zagros, Anatolia) y la piedra se traía donde era necesaria. 
 En base a esta escazes de recursos de construcción fue cuando se impulsó el uso de barro como material de construcción principal.
+ 
 
-- Uso de materiales locales y aprovechamiento del entorno.  
+### Uso de materiales locales y aprovechamiento del entorno
+
+La civilización mesopotamia se desarrolló en un entorno complicado: llanuras inundables, calor extremo, escasez de piedra y madera. Pero en lugar de rendirse, aprendieron a sacarle provecho a lo que tenían a mano. Esta capacidad de adaptación no surgió de la nada, fue el resultado de siglos de prueba y error, de observar el comportamiento de los ríos y de una organización social cada vez más compleja.
+
+**El barro: de problema a solución**
+
+Las crecidas del Tigris y el Éufrates dejaban enormes depósitos de lodo y arcilla. Lo que podría haber sido un problema se convirtió en su recurso más valioso. Desarrollaron técnicas específicas para trabajar este material:
+
+- **Mezcla estratégica:** No usaban el barro puro. Le agregaban paja picada (que abundaba tras las cosechas) para que los ladrillos no se agrietaran al secarse. La proporción de éstos era crucial
+
+- **Secado inteligente:** Los ladrillos se secaban bajo sombras o cobertizos, nunca directamente al sol del mediodía. El secado lento evitaba que se deformaran. Este proceso duraba entre 7 y 15 días dependiendo del clima.
+
+- **Cocción selectiva:** Cocer ladrillos requería mucha leña (escasa y cara), así que reservaban este proceso para zonas críticas: bases de edificios importantes, revestimientos de canales y estructuras expuestas al agua. Los hornos eran estructuras comunitarias que se compartían, y las jornadas de cocción eran eventos donde participaban varias familias.
+
+**La organización social detrás de los materiales**
+
+El acceso y control de los recursos no era igual para todos. La sociedad mesopotamica estaba fuertemente jerarquizada:
+
+- **Templos y palacios:** Controlaban las mejores zonas de extracción de arcilla y los hornos más grandes. Los sacerdotes y gobernantes organizaban grandes proyectos de construcción (zigurats, murallas, canales) que requerían miles de trabajadores.
+
+- **Artesanos especializados:** Formaban gremios o grupos profesionales. Los alfareros, ladrilleros y trabajadores del betún tenían cierto estatus social porque sus habilidades eran esenciales. Algunos incluso firmaban sus obras con sellos personales.
+
+- **Campesinos y trabajadores comunes:** Participaban en la construcción mediante sistemas de trabajo obligatorio (similar a un impuesto en forma de labor). Durante las temporadas de inundación, cuando no podían cultivar, muchos trabajaban en obras públicas a cambio de raciones de comida y cerveza.
+
+- **Esclavos y prisioneros de guerra:** Realizaban los trabajos más duros: extraer arcilla de pozos profundos, cargar ladrillos pesados, excavar canales. Su situación era precaria y dependían completamente de sus amos.
+
+
+**Aprovechamiento del agua: una cuestión de supervivencia**
+
+Vivir entre dos ríos era una bendición y una maldición. Por lo que desarrollaron sistemas ingeniosos que requerían cooperación constante:
+
+- **Canales de riego:** 
+  - Red compleja de canales principales y secundarios que se extendían por kilómetros.
+  - Cada comunidad era responsable de mantener su sección, limpiándola de sedimentos anualmente.
+  - No solo servían para cultivos, también abastecían cisternas urbanas y ayudaban a enfriar las zonas habitadas mediante evaporación.
+  - Los conflictos por el agua entre ciudades eran frecuentes, y muchas guerras se libraron por el control de canales estratégicos.
+
+- **Diques y compuertas:** 
+  - Construidos con barro compactado y reforzados con juncos y betún.
+  - Controlaban las inundaciones y dirigían el agua hacia donde se necesitaba.
+  - Requerían vigilancia constante, especialmente durante la temporada de crecidas (primavera).
+  - Había funcionarios específicos encargados de supervisar el estado de los diques y organizar reparaciones de emergencia.
+
+- **Sistemas de drenaje urbano:**
+  - Las calles tenían ligeras pendientes y canales laterales para evitar encharcamientos.
+  - El agua sucia se dirigía hacia campos específicos o zonas alejadas donde se usaba como fertilizante.
+  - En ciudades grandes como Ur o Babilonia, había redes de alcantarillado rudimentarias con tuberías de cerámica.
+
+**Consecuencias sociales del modelo de recursos**
+
+Este sistema de aprovechamiento de materiales locales tuvo efectos profundos en la sociedad:
+
+- **Dependencia y poder:** Quien controlaba el acceso al agua, la arcilla y los canales de comercio tenía poder político. Esto reforzó las estructuras jerárquicas con templos y palacios en la cúspide.
+
+- **Cooperación forzosa:** La necesidad de mantener canales y sistemas de riego obligaba a las ciudades a cooperar, pero también generaba tensiones y guerras cuando alguien desviaba agua o bloqueaba un canal.
+
+- **Movilidad social limitada:** El conocimiento especializado (como hacer betún o construir arcos) se guardaba celosamente en familias o gremios, dificultando el ascenso social de quienes no nacían en esos círculos.
+
+- **Identidad cultural:** El trabajo con barro se convirtió en parte de la identidad mesopotamica. En sus mitos de creación, incluso los dioses moldeaban a los humanos con arcilla, reflejando la importancia central de este material.
+
+- **Vulnerabilidad:** La dependencia del comercio los hacía vulnerables. Si las rutas se cortaban por guerras o desastres, ciudades enteras podían colapsar por falta de madera para herramientas o metal para armas.
+
+**Conclusión**
+
+En resumen, los mesopotámicos no solo usaron lo que tenían, sino que perfeccionaron cada técnica hasta convertir limitaciones en fortalezas. Su capacidad de adaptación y gestión inteligente de recursos es una lección vigente sobre sostenibilidad y creatividad. 
+
+Pero también nos muestran que la gestión de recursos está siempre ligada al poder y la organización social. Las grandes obras que admiramos hoy fueron posibles gracias a una compleja red de cooperación, jerarquía, conocimiento especializado y, no podemos olvidarlo, el trabajo forzado de miles de personas anónimas cuyo único rastro son los ladrillos que moldearon con sus manos.
+
 
 ####  1.2.2. Gestión de Energía  
 - Empleo de **fuerza humana**, **animal** y **energía hidráulica** (canales de agua).  
