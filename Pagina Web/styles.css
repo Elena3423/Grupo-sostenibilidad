@@ -1,9 +1,8 @@
-body {
-    display: flex;
-    flex-direction: column;
+/* Reset y configuración base */
+* {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f2e5c4;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 html, body {
@@ -11,62 +10,74 @@ html, body {
     margin: 0;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background-color: #f2e5c4;
+    color: #2c1810;
+    line-height: 1.7;
+}
+
+/* Header y navegación */
 header {
-    background-color: #8b5e34;
-    padding: 10px 0;
-    position: relative;
-    z-index: 10;
+    background: linear-gradient(135deg, #8b5e34 0%, #6b4423 100%);
+    padding: 15px 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .menu ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 40px;
+    padding: 0 20px;
 }
 
 .menu ul li {
     position: relative;
 }
 
-main {
-    flex: 1;
-    padding: 20px;
-    min-height: 400px;
-}
-
 .menu ul li a {
     color: #f8f3e7;
     text-decoration: none;
-    font-weight: bold;
-    font-size: 0.95rem;
-    padding: 6px 10px;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 8px 16px;
     display: block;
-    border-radius: 4px;
-    transition: 0.2s;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    font-family: 'Arial', sans-serif;
 }
 
 .menu ul li a:hover,
-.submenu:hover>a {
+.submenu:hover > a {
     background-color: #1e4b73;
-    border-radius: 4px 4px 0 0;
+    transform: translateY(-2px);
 }
 
+.flecha {
+    font-size: 0.7em;
+    margin-left: 4px;
+}
+
+/* Menú desplegable */
 .despliegue {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #8b5e34;
-    padding: 0;
-    border-radius: 0 0 6px 6px;
+    background: linear-gradient(135deg, #8b5e34 0%, #6b4423 100%);
+    padding: 8px 0;
+    border-radius: 0 0 8px 8px;
     visibility: hidden;
     opacity: 0;
-    transition: 0.2s;
-    display: flex;
-    flex-direction: column;
-    min-width: 180px;
+    transition: all 0.3s ease;
+    min-width: 220px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 .submenu:hover .despliegue {
@@ -80,14 +91,11 @@ main {
 }
 
 .despliegue li a {
-    padding: 4px 10px;
-    font-size: 0.78rem;
-    font-family: 'Segoe UI', sans-serif;
+    padding: 10px 16px;
+    font-size: 0.9rem;
     font-weight: 400;
-    line-height: 1.0;
-    color: #f8f3e7;
-    display: block;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-radius: 0;
 }
 
 .despliegue li:last-child a {
@@ -96,10 +104,168 @@ main {
 
 .despliegue li a:hover {
     background-color: #1e4b73;
+    transform: none;
 }
 
-footer {
-    background: #b87a3f5e;
-    padding: 10px 0;
+/* Contenido principal */
+main {
+    flex: 1;
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 30px;
+}
+
+.content-section {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    margin-bottom: 30px;
+}
+
+/* Tipografía */
+h1 {
+    color: #8b5e34;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
     text-align: center;
+    border-bottom: 3px solid #8b5e34;
+    padding-bottom: 15px;
+}
+
+h2 {
+    color: #6b4423;
+    font-size: 1.8rem;
+    margin: 35px 0 20px 0;
+    padding-left: 15px;
+    border-left: 4px solid #8b5e34;
+}
+
+h3 {
+    color: #8b5e34;
+    font-size: 1.4rem;
+    margin: 25px 0 15px 0;
+}
+
+h4 {
+    color: #6b4423;
+    font-size: 1.2rem;
+    margin: 20px 0 12px 0;
+}
+
+p {
+    margin-bottom: 16px;
+    text-align: justify;
+}
+
+strong {
+    color: #8b5e34;
+    font-weight: 600;
+}
+
+/* Listas */
+ul, ol {
+    margin: 15px 0 15px 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Cajas destacadas */
+.highlight-box {
+    background: #fef9f0;
+    border-left: 4px solid #d4a574;
+    padding: 20px;
+    margin: 25px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.intro-text {
+    font-size: 1.1rem;
+    color: #4a3426;
+    font-style: italic;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #fef9f0;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background: linear-gradient(135deg, #b87a3f 0%, #8b5e34 100%);
+    color: #f8f3e7;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
+}
+
+.footer-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+footer h3 {
+    color: #f8f3e7;
+    margin-bottom: 15px;
+    border: none;
+    padding: 0;
+}
+
+footer nav {
+    margin: 15px 0;
+}
+
+footer nav a {
+    margin: 0 15px;
+    color: #f8f3e7;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+footer nav a:hover {
+    color: #1e4b73;
+}
+
+.footer-text {
+    display: block;
+    margin-top: 15px;
+    color: #f2e5c4;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    main {
+        padding: 20px 15px;
+    }
+    
+    .content-section {
+        padding: 25px 20px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .menu ul {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .despliegue {
+        position: static;
+        width: 100%;
+    }
+
+    footer nav a {
+        display: block;
+        margin: 10px 0;
+    }
 }

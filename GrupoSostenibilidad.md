@@ -114,8 +114,6 @@ Este sistema de aprovechamiento de materiales locales tuvo efectos profundos en 
 
 En resumen, los mesopotámicos no solo usaron lo que tenían, sino que perfeccionaron cada técnica hasta convertir limitaciones en fortalezas. Su capacidad de adaptación y gestión inteligente de recursos es una lección vigente sobre sostenibilidad y creatividad. 
 
-Pero también nos muestran que la gestión de recursos está siempre ligada al poder y la organización social. Las grandes obras que admiramos hoy fueron posibles gracias a una compleja red de cooperación, jerarquía, conocimiento especializado y, no podemos olvidarlo, el trabajo forzado de miles de personas anónimas cuyo único rastro son los ladrillos que moldearon con sus manos.
-
 
 ####  1.2.2. Gestión de Energía  
 - Empleo de **fuerza humana**, **animal** y **energía hidráulica** (canales de agua).  
