@@ -4,17 +4,16 @@
 
 ## Índice
 
-1. [Geografía e Innovación](#geografía-e-innovación)
-2. [Obtención de Materia](#obtención-de-materia)
-3. [Gestión de Energía](#gestión-de-energía)
-4. [Condiciones de Vida](#condiciones-de-vida)
-5. [Ciencia y Tecnología](#ciencia-y-tecnología)
-6. [Sostenibilidad y Colapso](#sostenibilidad-y-colapso)
-7. [Conclusión](#conclusión)
+1. [Geografía e Innovación](#1-geografía-e-innovación)
+2. [Obtención de Materia](#2-obtención-de-materia)
+3. [Gestión de Energía](#3-gestión-de-energía)
+4. [Condiciones de Vida](#4-condiciones-de-vida)
+5. [Sostenibilidad y Colapso](#5-sostenibilidad-y-colapso)
+6. [Conclusión](#conclusión)
 
 ---
 
-## 2. Geografía e Innovación
+## 1. Geografía e Innovación
 
 *Ubicación, condiciones naturales y desarrollo de técnicas hidráulicas que dieron origen a la civilización mesopotámica.*
 
@@ -26,7 +25,8 @@ Estas condiciones naturales adversas actuaron como un catalizador para la innova
 
 ---
 
-## 4. Obtención de Materia
+
+## 2. Obtención de Materia
 
 ### El barro como recurso clave para la construcción y la cerámica
 
@@ -81,7 +81,7 @@ La civilización mesopotámica aprendió a sacarle provecho a lo que tenían a m
 
 ---
 
-## 5. Gestión de Energía
+## 3. Gestión de Energía
 
 ### Empleo de fuerza humana, animal y energía hidráulica
 
@@ -111,7 +111,7 @@ El **agua** fue la fuente principal. Construyeron canales, diques y presas para 
 
 ---
 
-## 6. Condiciones de Vida
+## 4. Condiciones de Vida
 
 *Los sistemas de irrigación fueron la base de la agricultura. Al no depender de lluvias escasas, el desarrollo hidráulico permitió el sustento de toda la civilización.*
 
@@ -151,7 +151,7 @@ Creación de pigmentos, perfumes, aleaciones de metales y perfeccionamiento de l
 
 ---
 
-## 7. Sostenibilidad y Colapso
+## 5. Sostenibilidad y Colapso
 
 ### El desafío de la salinización del suelo
 
