@@ -42,6 +42,9 @@ Los recursos obtenidos en su entorno principalmente eran:
 
 La arcilla era el material más abundante en las riberas del Tigris y el Éufrates. La mezclaban con paja picada y agua para darle más resistencia y evitar grietas.
 
+<img src="Arcilla.jpg" width="800">
+
+
 Generalmente los **ladrillos secados al sol** eran usados en estructuras cotidianas. Los **ladrillos cocidos** eran usados en templos, zigurats o lugares donde el contacto con el agua era frecuente.
 
 #### 2. Juncos y cañas
@@ -52,6 +55,12 @@ Materiales obtenidos en las orillas de los ríos, usados para:
 - **Techos:** Trenzados sobre vigas de madera.
 - **Cestería y mobiliario:** Esteras, cestas y barcas.
 
+<img src="Junco.jpg" width="300">
+<img src="Cesta de junco.jpg" width="250"> 
+
+<img src="Caña.jpg" width="400"> 
+
+
 #### 3. Betún o bitumen
 
 Recurso obtenido de pozos naturales, usado para impermeabilizar:
@@ -59,25 +68,65 @@ Recurso obtenido de pozos naturales, usado para impermeabilizar:
 - Sellado de canales, estanques y cimientos.
 - Unión de ladrillos cocidos en zonas húmedas.
 
+
+<img src="Betún.jpg" width="500"> 
+
+
 #### 4. Madera y piedra (Comercio)
 
 Recursos escasos que debían importarse desde regiones montañosas (Zagros, Anatolia). Esta escasez impulsó la innovación con el barro.
 
-### Uso de materiales locales y aprovechamiento del entorno
+## Uso de materiales locales y aprovechamiento del entorno
 
-La civilización mesopotámica aprendió a sacarle provecho a lo que tenían a mano tras siglos de prueba y error.
+La civilización mesopotámica se desarrolló en un entorno complejo: llanuras inundables, calor extremo y una marcada escasez de piedra y madera. Sin embargo, lejos de ser un obstáculo insalvable, estas limitaciones impulsaron una notable capacidad de adaptación. A través de siglos de prueba y error, observación del comportamiento de los ríos y una organización social cada vez más sofisticada, aprendieron a sacar el máximo provecho de los recursos disponibles en su entorno.
 
-#### El barro: de problema a solución
+### El barro: de problema a solución
 
-- **Mezcla estratégica:** Barro + paja picada para evitar grietas.
-- **Secado inteligente:** Secado lento bajo sombra (7-15 días).
-- **Cocción selectiva:** Reservada para zonas críticas debido a la escasez de leña.
+Las crecidas del **Tigris y el Éufrates** dejaban grandes depósitos de lodo y arcilla. Lo que inicialmente podía parecer un inconveniente se transformó en el recurso constructivo más importante de Mesopotamia. Para ello, desarrollaron técnicas específicas:
 
-#### Consecuencias sociales
+- **Mezcla estratégica:**  
+  El barro no se utilizaba puro. Se mezclaba con **paja picada**, abundante tras las cosechas, para aumentar la resistencia del ladrillo y evitar grietas durante el secado. La proporción de esta mezcla era cuidadosamente controlada.
 
-- **Dependencia y poder:** Controlar la arcilla y el agua daba poder político (Templos y Palacios).
-- **Especialización:** Surgimiento de gremios de artesanos (alfareros, ladrilleros).
-- **Identidad cultural:** El barro era tan central que sus mitos decían que los dioses moldearon a los humanos con arcilla.
+<img src="Barro+Paja.jpg" width="200"> 
+  
+
+- **Secado inteligente:**  
+  Los ladrillos se dejaban secar bajo sombra o cobertizos, evitando la exposición directa al sol del mediodía. Este secado lento, que duraba entre **7 y 15 días** según el clima, reducía deformaciones y fisuras.
+
+
+
+- **Cocción selectiva:**  
+  Cocer ladrillos requería grandes cantidades de leña, un recurso escaso y costoso. Por ello, los ladrillos cocidos se reservaban para zonas críticas: bases de edificios importantes, revestimientos de canales y estructuras expuestas al agua. Los hornos eran comunitarios y las jornadas de cocción involucraban a varias familias.
+
+<img src="CocciónDeLadrillos.jpg" width="400"> 
+
+
+### Aprovechamiento del agua: una cuestión de supervivencia
+
+Vivir entre dos grandes ríos era tanto una bendición como una amenaza. Para sobrevivir, los mesopotámicos desarrollaron sistemas hidráulicos complejos que requerían cooperación constante.
+
+#### Canales de riego
+
+- Red extensa de canales principales y secundarios que se extendían por kilómetros.
+- Cada comunidad era responsable de limpiar y mantener su tramo anualmente.
+- No solo irrigaban cultivos, también abastecían cisternas urbanas y ayudaban a refrescar zonas habitadas mediante evaporación.
+- Los conflictos por el control del agua eran frecuentes y muchas guerras se libraron por canales estratégicos.
+
+#### Diques y compuertas
+
+- Construidos con barro compactado, reforzados con **juncos y betún**.
+- Permitían controlar inundaciones y dirigir el agua hacia los campos.
+- Requerían vigilancia constante, especialmente durante la primavera.
+- Existían funcionarios específicos encargados de su supervisión y reparación.
+
+#### Sistemas de drenaje urbano
+
+- Calles con ligeras pendientes y canales laterales para evitar encharcamientos.
+- El agua residual se dirigía a campos o zonas alejadas donde se reutilizaba como fertilizante.
+- En ciudades como **Ur** o **Babilonia** existían redes de alcantarillado rudimentarias con tuberías de cerámica.
+
+
+<img src="CanalesDeAgua.png" width="600"> 
 
 ---
 
