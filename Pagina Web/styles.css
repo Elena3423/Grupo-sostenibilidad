@@ -78,6 +78,7 @@ header {
 .menu ul li a:hover,
 .submenu:hover > a {
     background-color: var(--color-accent);
+    color: white;
     transform: translateY(-2px);
 }
 
