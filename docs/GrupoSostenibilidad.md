@@ -1,0 +1,287 @@
+# Puntos Principales
+
+##  1. Mesopotamia: Funcionamiento de una Civilización Hidráulica (Análisis del Sistema)
+
+###  1.1. Geografía e Innovación   
+-  Ubicación, condiciones naturales y desarrollo de técnicas hidráulicas que dieron origen a la civilización mesopotámica (Origen de la necesidad de gestión de recursos).  
+
+---
+
+###  1.2. Análisis del Sistema y Civilización Mesopotámica  
+
+####  1.2.1. Obtención de Materia  
+- El **barro** como recurso clave para la construcción y la cerámica.  
+
+La mesopotamia histórica aprovechó su entorno que era mayor parte de éste, suelos con poca profundidad efectiva y generalmente formado por acumulaciones de agua fluyentes de los dos ríos que rodeaban la civilización (valle del Tigris y Éufrateso).
+
+La limitada disponibilidad de distintos materiales que eran usados en ese entonces como lo es la madera o la piedrallevó al desarrollo intensivo del ladrillo de barro. El cuál se secaba al sol o se cocía.
+
+**¿Cómo conseguían estos materiales?**
+
+Los recursos obtenidos en su entorno principalmente eran: 
+
+**1. Arcilla o barro:**
+La arcilla era el material más abundante en las riberas del Tigris y el Éufrates. La mezclaban con paja picada y agua para darle más resistencia y evitar grietas. Los cuales los colocaban en moldes rectangulares para crear ladrillos.
+Generalmente los **ladrillos secados al sol** eran usados en estrucutras más cotidianas como por ejemplo casas, muros y demás estructuras comúnes. Por otro lado, los **ladrillos cocidos** eran usados en templos, zigurats o lugares donde el contacto con el agua era frecuente.
+En grandes construcciones como los zigurats (templos escalonados), el interior era de ladrillo secado al sol y las capas exteriores de ladrillo cocido para protegerlo.
+
+La arcilla era más que todo para objetos dómesticos como jarrones, platos, vasijas, etc. Las cuales se hacían a mano y se cocían en hornos.
+Además, la arcilla húmeda servía como soporte para escribir con punzones. De esta manera hacían las tablillas cuneiformes, que luego se secaban o cocían para conservar registros administrativos, leyes o textos literarios.
+
+
+**2. Juncos y cañas**
+Materiales obtenidos en las orillas de los ríos, los cuales se usaban principalmente para:
+**Refuerzo de muros:** Se colocaban entre capas de barro como una especie de “armadura” natural, ayudando a que las paredes no se agrietaran.
+
+**Techos y techumbres:** Se usaban para techar casas sencillas o almacenes, colocándolos trenzados sobre vigas de madera o ramas.
+
+**Cestería y mobiliario:** Con cañas trenzadas hacían esteras, cestas, barcas pequeñas y hasta divisores interiores en las viviendas.
+
+**3. Betún o bitumen**
+Este recurso se obtenía través de pozos naturales o zonas donde había emanaciones de petróleo, el cual se usaba más que todo para fortalecer las construcciones, protegiendolas del agua, como por ejemplo:
+- Se mezclaba con barro o se aplicaba como una capa para sellar canales, estanques, cimientos y techos.
+- En obras importantes se usaba para unir ladrillos cocidos o piedras, sobre todo en zonas húmedas.
+
+
+**4. Madera y piedra (A través de comercio)**
+Ya que éstos recursos eran escazos en estas zonas por su entorno desfaborable, se tenía que conseguir por comercio desde regiones montañosas (Zagros, Anatolia) y la piedra se traía donde era necesaria. 
+En base a esta escazes de recursos de construcción fue cuando se impulsó el uso de barro como material de construcción principal.
+ 
+
+### Uso de materiales locales y aprovechamiento del entorno
+
+La civilización mesopotamia se desarrolló en un entorno complicado: llanuras inundables, calor extremo, escasez de piedra y madera. Pero en lugar de rendirse, aprendieron a sacarle provecho a lo que tenían a mano. Esta capacidad de adaptación no surgió de la nada, fue el resultado de siglos de prueba y error, de observar el comportamiento de los ríos y de una organización social cada vez más compleja.
+
+**El barro: de problema a solución**
+
+Las crecidas del Tigris y el Éufrates dejaban enormes depósitos de lodo y arcilla. Lo que podría haber sido un problema se convirtió en su recurso más valioso. Desarrollaron técnicas específicas para trabajar este material:
+
+- **Mezcla estratégica:** No usaban el barro puro. Le agregaban paja picada (que abundaba tras las cosechas) para que los ladrillos no se agrietaran al secarse. La proporción de éstos era crucial
+
+- **Secado inteligente:** Los ladrillos se secaban bajo sombras o cobertizos, nunca directamente al sol del mediodía. El secado lento evitaba que se deformaran. Este proceso duraba entre 7 y 15 días dependiendo del clima.
+
+- **Cocción selectiva:** Cocer ladrillos requería mucha leña (escasa y cara), así que reservaban este proceso para zonas críticas: bases de edificios importantes, revestimientos de canales y estructuras expuestas al agua. Los hornos eran estructuras comunitarias que se compartían, y las jornadas de cocción eran eventos donde participaban varias familias.
+
+**La organización social detrás de los materiales**
+
+El acceso y control de los recursos no era igual para todos. La sociedad mesopotamica estaba fuertemente jerarquizada:
+
+- **Templos y palacios:** Controlaban las mejores zonas de extracción de arcilla y los hornos más grandes. Los sacerdotes y gobernantes organizaban grandes proyectos de construcción (zigurats, murallas, canales) que requerían miles de trabajadores.
+
+- **Artesanos especializados:** Formaban gremios o grupos profesionales. Los alfareros, ladrilleros y trabajadores del betún tenían cierto estatus social porque sus habilidades eran esenciales. Algunos incluso firmaban sus obras con sellos personales.
+
+- **Campesinos y trabajadores comunes:** Participaban en la construcción mediante sistemas de trabajo obligatorio (similar a un impuesto en forma de labor). Durante las temporadas de inundación, cuando no podían cultivar, muchos trabajaban en obras públicas a cambio de raciones de comida y cerveza.
+
+- **Esclavos y prisioneros de guerra:** Realizaban los trabajos más duros: extraer arcilla de pozos profundos, cargar ladrillos pesados, excavar canales. Su situación era precaria y dependían completamente de sus amos.
+
+
+**Aprovechamiento del agua: una cuestión de supervivencia**
+
+Vivir entre dos ríos era una bendición y una maldición. Por lo que desarrollaron sistemas ingeniosos que requerían cooperación constante:
+
+- **Canales de riego:** 
+  - Red compleja de canales principales y secundarios que se extendían por kilómetros.
+  - Cada comunidad era responsable de mantener su sección, limpiándola de sedimentos anualmente.
+  - No solo servían para cultivos, también abastecían cisternas urbanas y ayudaban a enfriar las zonas habitadas mediante evaporación.
+  - Los conflictos por el agua entre ciudades eran frecuentes, y muchas guerras se libraron por el control de canales estratégicos.
+
+- **Diques y compuertas:** 
+  - Construidos con barro compactado y reforzados con juncos y betún.
+  - Controlaban las inundaciones y dirigían el agua hacia donde se necesitaba.
+  - Requerían vigilancia constante, especialmente durante la temporada de crecidas (primavera).
+  - Había funcionarios específicos encargados de supervisar el estado de los diques y organizar reparaciones de emergencia.
+
+- **Sistemas de drenaje urbano:**
+  - Las calles tenían ligeras pendientes y canales laterales para evitar encharcamientos.
+  - El agua sucia se dirigía hacia campos específicos o zonas alejadas donde se usaba como fertilizante.
+  - En ciudades grandes como Ur o Babilonia, había redes de alcantarillado rudimentarias con tuberías de cerámica.
+
+**Consecuencias sociales del modelo de recursos**
+
+Este sistema de aprovechamiento de materiales locales tuvo efectos profundos en la sociedad:
+
+- **Dependencia y poder:** Quien controlaba el acceso al agua, la arcilla y los canales de comercio tenía poder político. Esto reforzó las estructuras jerárquicas con templos y palacios en la cúspide.
+
+- **Cooperación forzosa:** La necesidad de mantener canales y sistemas de riego obligaba a las ciudades a cooperar, pero también generaba tensiones y guerras cuando alguien desviaba agua o bloqueaba un canal.
+
+- **Movilidad social limitada:** El conocimiento especializado (como hacer betún o construir arcos) se guardaba celosamente en familias o gremios, dificultando el ascenso social de quienes no nacían en esos círculos.
+
+- **Identidad cultural:** El trabajo con barro se convirtió en parte de la identidad mesopotamica. En sus mitos de creación, incluso los dioses moldeaban a los humanos con arcilla, reflejando la importancia central de este material.
+
+- **Vulnerabilidad:** La dependencia del comercio los hacía vulnerables. Si las rutas se cortaban por guerras o desastres, ciudades enteras podían colapsar por falta de madera para herramientas o metal para armas.
+
+**Conclusión**
+
+En resumen, los mesopotámicos no solo usaron lo que tenían, sino que perfeccionaron cada técnica hasta convertir limitaciones en fortalezas. Su capacidad de adaptación y gestión inteligente de recursos es una lección vigente sobre sostenibilidad y creatividad. 
+
+
+####  1.2.2. Gestión de Energía  
+- Empleo de **fuerza humana**, **animal** y **energía hidráulica** (canales de agua).  
+
+La civilización mesopotámica supo utilizar las fuentes de energía disponibles en su entorno para desarrollar la agricultura, la construcción y el transporte. 
+La falta de recursos como la madera o los metales, derivó a que se basaran en estos tres pilares fundamentales: la **fuerza humana**, la **fuerza animal** y **la energía hidráulica** (proveniente de los rios Tigris y Éufrates).
+
+**¿Cómo aprovechaban estas fuentes de energía?**
+
+**1. Fuerza humana**
+La mano de obra era algo esencial en todas las actividades de la vida mesopotámica. Una parte de los trabajadores participaban en la construcción de templos, canales de riego, murallas y zigurats. También se empleaba en trabajos agrícolas como la siembra, la cosecha y el mantenimiento de los campos.
+El trabajo estaba organizado de forma colectiva y supervisado por administradores que controlaban el rendimiento y la distribución de tareas, permitiendo realizar grandes proyectos públicos que transformaron el paisaje.
+
+**2. Fuerza animal**
+Los animales como los **bueyes** y **asnos**, fueron una ayuda fundamental para la agricultura y el transporte de la época.
+- Los **bueyes** se utilizaban para arar la tierra y preparar los campos de cultivo.
+- Los **asnos** transportaban productos agrícolas, materiales de construcción y mercancías comerciales. 
+Gracias a este uso, se consiguió aumentar la productividad y facilitar el comercio entre las distintas ciudades.
+
+**3. Energía hidráulica (canales de agua)**
+El **agua** fue una de las principales fuentes energéticas de la época. Los mesopotámicos contruyeron una serie de redes de **canales**, **diques** y **presas** para controlar el flujo del agua y distribuirla hacia los campos.
+Los canales de agua eran reforzados con barro, cañas y betún para evitar filtraciones, además, se limpiaban regularmente para asegurar el paso de agua constante.
+Este sistema de riego permitió cultivar grandes extensiones de tierra y asegurar las cosechas incluso en épocas de sequía. 
+
+- **Innovaciones en riego y transporte fluvial**.  
+
+La civilización mesopotámica no solo aprovechó la energía hidráulica para las labores de agricultura, además, desarrollaron un conjunto de innovaciones tecnológicas cruciales para gestionar el agua de los ríos Tigris y Éufrates, tanto para el riego vital como para la eficiencia del transporte y el comercio.
+
+**1. Innovaciones en el Riego (Ingeniería Hidráulica)**
+El control del agua no era una tarea facil, ya que los ríos presentaban crecidas irregulares. Las innovaciones se centraron en desviar, almacenar y elevar el agua:
+- **Red de canales:** construyeron un sistema de canales principales, secundarios y acequias. Estos eran especialmente diseñado para desviar el agua de los ríos hacia el interior de las tierras cultivables, permitiendo la irrigación por gravedad. Su construcción y mantenimiento requerían una coordinación social masiva y una ingeniería civil avanzada para la época.
+- **Diques y presas:** eran utilizados para regular el caudal y proteger los asentamientos de las inundaciones durante las crecidas del rio en época primaveral. Estos diques ayudaban a almacenar una parte del agua y a dirigirla a los canales en lugar de que se desbordara.
+- **El Shaduf:** fue un invento esencial para la irrigación de campos ubicados en terrenos más altos que el nivel del canal. Se trata de un dispositivo manual simple de elevación de agua, que utiliza un contrapeso para levantar un cubo lleno desde el canal hasta la acequia o campo. Fue fundamental para optimizar la distribución del agua en terrenos con desnivel.
+
+**2. Innovaciones en el Transporte Fluvial**
+Los ríos Tigris y Éufrates no eran solo una fuente de vida, eran las que llamariamos ahora como carreteras de Mesopotamia. Las innovaciones en el transporte permitieron el movimiento de personas, materiales de construcción y productos comerciales:
+- **La Vela:** los mesopotámicos están acreditados con una de las primera aplicaciones de la vela. Este invento revolucionó el transporte al permitir que las embarcaciones se movieran río arriba o río abajo aprovechando la energía del viento. Esto impulsó el comercio a larga distancia.
+- **Barcos especializados:** desarrollaron varios tipos de embarcaciones, desde balsas sencillas (como el Kelek) hasta barcos de fondo plano más grandes, adecuados para las aguas no muy profundas y para el tranporte de grandes cantidades de mercancías.
+- **El Betún como sellados:** el uso de betún o bitumen como un material impermeabilizante fue clave. Se usaba para sellar los cascos de las barcas, haciéndolas estancas y mucho más duraderas y fiables para el transporte fluvial pesado.
+
+####  1.2.3. Condiciones de Vida  
+- **Sistemas de irrigación** como base de la agricultura.  
+
+Los sistemas de irrigación en Mesopotamia fue la base de su agricultura. Esto significa que no dependian de las lluvias, que eran escasas e irregulares, si no que dependian del agua de los ríos **Tigris y Éufrates**. El desarrollo de la tecnologia hidraulica fue la base de toda su civilización.
+
+**Tecnicas y Estructura de Irrigacón**
+
+**Canales:** Una extensa red de canales principales, secundarios y acequias que desviaban el agua de los ríos y la distribuían hacia los campos de cultivo. Esta era la infraestructura más importante de esta civilización.
+
+**Diques y Presas:** Se utilizaban para contener y regular el caudal de los rios, sobre todo durante las crecidas violentas de las precipitaciones en primavera
+
+**Depositos y Embalses:** Permitían almacenar el agua en época de abundancia para usarla durante los periodos de sequía
+
+**Shadufs:** Este dispositivo es una palaca con un contrapeso que permitía elevar el agua desde los canales hasta los campos mas altos.
+
+**Consecuencias en las Condiciones de Vida y la Sociedad**
+
+**Garantizó el Sustento:** Permitió cultivar cereales como la **cebada** (la más importante por sus resistencia a la salinidad) y el trigo, además de muchas legumbres, datileras y hortalizas.
+
+**Generación de Excedentes:** La agricultura de regadío era mucho más productiva que la de secano. Esto generó excedentes de alimentos, lo que es considerado el "motor" de la historia mesopotámica.
+
+**Cambio Social y Especialización:** Gracias a los excedentes agrícolas generados por la irrigación, no toda la población necesitó dedicarse a la agricultura. Esto permitió la **especialización del trabajo**, dando origen a una sociedad más compleja con nuevos oficios y roles:
+- Artesanos
+- Comerciantes
+- Sacerdotes
+- Soldades
+
+**Urbanización y Crecimiento Demográfico**
+La **seguridad alimentaria** proporcionada por los sistemas de irrigación permitió un **crecimiento sostenido de la población**.
+
+Este aumento demográfico impulsó el **surgimiento de las primeras ciudades-estado** como:
+  - **Uruk**
+  - **Ur**
+  - **Eridu**
+
+En estos centros urbanos, la sociedad se volvió más **compleja y jerarquizada**, estableciéndose claras diferencias entre clases sociales.
+
+**Nuevos Conflictos**
+El agua era un **recurso estrategico y vital** para la supervivencia, por lo que el control de los canales principales. Esto se convirtió en fuente de:
+- Conflictos permanentes entre ciudades-estado
+- Guerras por el dominio de los recursos hídricos
+- Alianzas y rivalidades políticas en torno al agua
+
++ **Avances tecnológicos de la época** 
+
+Durante los periodos de Uruk (4100-2900 a.C.) y el periodo dinástico arcáico (2900-1750 a.C.) de la cultura sumeria, comenzó a desarrollarse la ciencia y la tecnología mesopotámica en la que se establecieron las bases de los avances tecnológicos.
+Fueron los pioneros en explorar la hipótesis científica y se dedicaron a innovar tecnológicamente dando lugar a muchos avances como la palabra escrita, el desarrollo de las matemáticas, la astronomía y astrología, entre muchos otros.
+Con la ayuda de la hipótesis científica y las ganas de los sumerios por mejorar su estilo de vida se crearon algunas de las invenciones más importantes:
+    
++ La rueda 
++ La vela 
++ La escritura 
++ Los mapas 
++ Los medicamentos y las cirugías
+
+Y esta es solo una pequeña parte de todos los avances tecnológicos desarrollados por esta civilización.
+
+**Ciencia**
+
+Los mesopotámicos fueron una de las primeras civilizaciones que intentaron comprender su entorno de forma racional, observando todo lo que pasaba a su alrededor, lo que les llevo a desarrollar conocimientos en distintas áreas como las matemáticas, la astronomía, la medicina e incluso una química temprana, por su creación de pigmentos, cerámica y el trabajo con metales.
+
+  + Matemáticas
+    
+    Los sumerios desarrollaron las matemáticas antes de la utilización de la escritura. Estas fueron una herramienta fundamental para la vida en Mesopotamia, y se dice que se desarrollaron a partir de que los escribas y administradores tenían la necesidad de contar cosechas, calcular impuestos o planificar construcciones. 
+    Su sistema numérico estaba basado en el número 60, conocido como sistema sexagesimal que incluía suma, resta, multiplicación, división, álgebra, geometría, recíprocos, cuadrados y ecuaciones cuadráticas. Con este sistema se inspirarón para crear el tiempo basado en 60 y por eso las horas comenzaron a ser definidas por 60 minutos y los minutos por 60 segundos. También median el tiempo con relojes de sol o de agua con los que determinaron que los días se dividían en 12 horas de luz solar y 12 horas de oscuridad, dictaminando que los días durasen 24 horas.
+    Gracias a este conocimiento podían medir terrenos, calcular áreas y volúmenes, algo esencial para el diseño de canales, templos y zigurats. 
+  + Astronomía
+    
+    El desarrollo de la astronomía va de la mano con el propio desarrollo de las matemáticas, ya que los sumerios con ambos conocimientos buscaban calcular la duración de los años. Desde muy temprano se dieron cuenta de que los movimientos del Sol, la Luna y las estrellas influían en la vida cotidiana, por eso los primeros astrónomos observaban cada noche para anotar lo que veían. Con estas anotaciones lograron crear un mapa de constelaciones y con esto uno de los primeros calendarios de la historia, que estaba basado en los ciclos lunares. Este calendario permitía organizar las cosechas, los rituales religiosos y las festividades. 
+    También identificaron constelaciones y planetas visibles y comenzaron a relacionar los movimientos del cielo con los acontecimientos de la tierra, ya que ellos creían que los dioses se manifestaban a traves de los astros.
+    
+  + Medicina
+
+    La salud fue una de las preocupaciones importantes de los mesopotámicos. Relacionaban las enfermedades con causas naturales y con causas espirituales. Por eso, los mesopotamicos mezclaban el conocimiento práctico con las creencias religiosas.
+    Existian dos tipos de sanadores:
+    + El asû que era un médico práctico. Utilizaba hierbas, aceites, minerales y cataplasmas para tratar las heridas.
+    + El āšipu que actuaba más como un sacerdote o exorcista. Se encargaba de realizar oraciones, conjuros y rituales para alejar el mal que afectaba al enfermo.
+    
+    A pesar de ser una sociedad más cercana a lo religioso su medicina fue sorprendentemente avanzada. Se han encontrado tablillas de arcilla con recetas, listas de sintomas y tratamientos. Llegaron incluso a practicar pequeñas cirugías y sabían reconocer síntomas de enfermedades comunes.
+    Su legado se mantuvo por siglos y sirvió de base para el desarrollo médico de civilizaciones posteriores.
+
+  + Química
+    
+    Aunque como tal los mesopotámicos no conocían la química como ciencia, desarrollaron una habilidad para observar y aprovechas las propiedades de los materiales que encontraban. A través de la experimentación aprendieron a transformar esas materias en objetos útiles o decorativos.
+    Sabían, por ejemplo a crear pigmentos mezclando minerales y plantas, fabricaban perfumes y ungüentos mezclando aceites vegetales con esencias naturales y también a manipular metales para fabricar herramientas, joyas y armas.
+    En la cerámica perfeccionaron su técnica, consiguiendo piezas más resistentes y con mejores acabados. Con esto se demuestra que aunque no tuviesen una base química entendían como los materiales cambiaban con el calor, la mezcla y el tiempo, aplicando estos conocimientos en su vida diaria.
+    Los mesopotámicos sentaron las bases de lo que posteriormente se convertiría en una química artesanal de las grandes civilizaciones antiguas.
+
+**Tecnología**
+
+La tecnología mesopotámica surgió de la necesidad de adaptarse a un entorno y de mejorar sus condiciones de vida. Con los pocos recursos naturales disponibles, los mesopotámicos encontraron soluciones que transformaron su forma de vivir y de organizarse como sociedad.
+La rueda, anteriormente mencionada como uno de los inventos más importantes, se usaba para fabricar cerámica, pero pronto se adaptó al transporte, lo que permitió el traslado de materiales por carros tirados por animales.
+La vela fue clave, ya que revolucionó la navegación fluvial, y gracias a ella las embarcaciones podían aprovechar el viento para desplazarse por los ríos. Con esto se pudieron conectar ciudades lejanas y facilitaron el intercambio de productos.
+Los mesopotámicos también destacaron en la construcción y en la ingeniería. Crearon herramientas y métodos para levantar estructuras con materiales sencillos, creando construcciones sólidas y duraderas.
+Esta tecnología fue resultado de la observación, necesidad y creatividad. Cada innovación marcó un paso importante en la historia, sentando las bases del desarrollo tecnológico.
+    
+  
+- **Leyes y organización social** (Código de Hammurabi).  
+
+---
+
+###  1.3. Sostenibilidad  
+
+- El desafío de la salinización del suelo.
+- Ejemplo del impacto ambiental a largo plazo y su influencia en la estabilidad de la civilización.
+
+La civilización mesopotámica dependía completamente del agua de los ríos Tigris y Éufrates para mantener su agricultura. Sin embargo, el uso continuo de sistemas de riego en un clima árido y caluroso provocó un problema ambiental serio: la salinización del suelo.
+
+Este fenómeno ocurría porque el agua utilizada para regar contenía sales minerales. Cuando el agua se evaporaba por el calor, las sales quedaban acumuladas en la superficie del terreno. Con el paso del tiempo, esta acumulación redujo la fertilidad de los campos, afectando directamente las cosechas.
+
+**Consecuencias principales:**
+
+- Los cultivos más sensibles, como el trigo, dejaron de crecer adecuadamente.
+
+- Los agricultores tuvieron que reemplazarlo por cebada, más resistente a la sal, pero menos nutritiva.
+
+- Se produjo una disminución de la productividad agrícola y un deterioro progresivo del suelo.
+
+- Muchas tierras del sur de Mesopotamia fueron abandonadas al volverse infértiles.
+
+Este deterioro ambiental tuvo un impacto a largo plazo en la economía y la organización social. Al reducirse la producción de alimentos, hubo escasez, migraciones hacia zonas más fértiles y un debilitamiento del poder político y religioso que dependía del control de la agricultura.
+
+La salinización del suelo se convirtió así en un ejemplo temprano de cómo la mala gestión de los recursos naturales puede afectar la estabilidad de una civilización. Aunque los mesopotámicos fueron pioneros en el uso del riego, su sistema no fue sostenible a largo plazo.
+
+En conclusión, el caso mesopotámico demuestra que el éxito de una civilización hidráulica puede transformarse en una amenaza si no se equilibran las necesidades humanas con los límites del entorno natural.
+
+
+
+
+
+
